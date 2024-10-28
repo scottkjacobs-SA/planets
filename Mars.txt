@@ -1,1 +1,4 @@
 Welcome to Mars!
+This planet is very red.
+It is cold.
+
